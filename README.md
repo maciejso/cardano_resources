@@ -12,7 +12,7 @@
 * [Cardano Foundation website](https://cardano.org/)
 * [Cardano Foundation youtube channel](https://www.youtube.com/c/CardanoFoundation/videos)
 * [Emurgo website](https://emurgo.io/)
-* [Emurgo youtuebe channel](https://www.youtube.com/EMURGO)
+* [Emurgo youtube channel](https://www.youtube.com/EMURGO)
 * [r/Cardano](https://www.reddit.com/r/cardano/)
 
 ## For Delegators

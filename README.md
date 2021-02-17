@@ -26,3 +26,7 @@
 ## For Developers
 
 * [r/CardanoDevelopers](https://www.reddit.com/r/CardanoDevelopers/)
+
+
+## Papers
+* [IOHK papers](https://iohk.io/en/research/library/)

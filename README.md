@@ -7,9 +7,12 @@
 
 * Charles Hoskinson's [Youtube Channel](https://www.youtube.com/c/charleshoskinsoncrypto)
 * [IOHK website](https://iohk.io/)
-* [Cardano website](https://cardano.org/)
-* [Emurgo website](https://emurgo.io/)
+* [IOHK youtube channel](https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w)
 * [IOHK Discussion Board](https://forum.cardano.org/)
+* [Cardano Foundation website](https://cardano.org/)
+* [Cardano Foundation youtube channel](https://www.youtube.com/c/CardanoFoundation/videos)
+* [Emurgo website](https://emurgo.io/)
+* [Emurgo youtuebe channel](https://www.youtube.com/EMURGO)
 * [r/Cardano](https://www.reddit.com/r/cardano/)
 
 ## For Delegators

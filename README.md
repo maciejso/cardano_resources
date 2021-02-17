@@ -1,7 +1,7 @@
 # Cardano resources
 
 ## Quick intros
-* [Cardano stake pool tutorial|Introduction to Cardano](https://www.youtube.com/watch?v=zJUJG6V0Y1o&feature=emb_title)
+* [Cardano stake pool tutorial | Introduction to Cardano](https://www.youtube.com/watch?v=zJUJG6V0Y1o&feature=emb_title)
 
 ## General
 

@@ -4,7 +4,7 @@
 
 ## General
 
-* Charles Hoskinson [Youtube Channel](https://www.youtube.com/c/charleshoskinsoncrypto)
+* Charles Hoskinson's [Youtube Channel](https://www.youtube.com/c/charleshoskinsoncrypto)
 * [IOHK website](https://iohk.io/)
 * [Cardano website](https://cardano.org/)
 * [Emurgo website](https://emurgo.io/)

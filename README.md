@@ -14,6 +14,7 @@
 * [Emurgo website](https://emurgo.io/)
 * [Emurgo youtube channel](https://www.youtube.com/EMURGO)
 * [r/Cardano](https://www.reddit.com/r/cardano/)
+* [r/Cardano_ELI5](https://www.reddit.com/r/Cardano_ELI5/)
 
 ## For Delegators
 

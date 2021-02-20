@@ -28,7 +28,7 @@
 
 * [r/CardanoDevelopers](https://www.reddit.com/r/CardanoDevelopers/)
 
-# Blockchain stats
+## Blockchain stats
 * [Pooltool.io](https://pooltool.io/)
 
 ## Papers

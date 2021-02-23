@@ -3,6 +3,7 @@
 ## Quick intros
 * [Cardano stake pool tutorial | Introduction to Cardano](https://www.youtube.com/watch?v=zJUJG6V0Y1o&feature=emb_title)
 * [Simply Explained | Cardano](https://www.youtube.com/watch?v=Do8rHvr65ZA)
+* [Simply Explained | Proof of Stake](https://www.youtube.com/watch?v=M3EFi_POhps)
 
 ## General
 

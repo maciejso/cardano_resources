@@ -17,6 +17,7 @@
 * [Emurgo youtube channel](https://www.youtube.com/EMURGO)
 * [r/Cardano](https://www.reddit.com/r/cardano/)
 * [r/Cardano_ELI5](https://www.reddit.com/r/Cardano_ELI5/)
+* [IOHK | Cardano whiteboard overview](https://www.youtube.com/watch?v=Ja9D0kpksxw)
 
 ## For Delegators
 

@@ -30,6 +30,7 @@
 
 ## Blockchain stats
 * [Pooltool.io](https://pooltool.io/)
+* [AdaPools.org](https://adapools.org/)
 
 ## Toknizing properties
 * [Benefits of tokenizing properties](https://medium.com/mvp-workshop/tokenizing-real-estate-what-are-the-benefits-pitfalls-and-misconceptions-of-tokenizing-assets-86d90f8ef3b)

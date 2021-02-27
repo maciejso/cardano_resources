@@ -6,7 +6,6 @@
 * [Cardano stake pool tutorial | Introduction to Cardano](https://www.youtube.com/watch?v=zJUJG6V0Y1o&feature=emb_title)
 
 ## General
-
 * Charles Hoskinson's [Youtube Channel](https://www.youtube.com/c/charleshoskinsoncrypto)
 * [IOHK website](https://iohk.io/)
 * [IOHK youtube channel](https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w)
@@ -22,17 +21,18 @@
 ## For Delegators
 
 ## For Stakepool Operators
-
 * [Stake pool course](https://cardano-foundation.gitbook.io/stake-pool-course/lessons/introduction/introduction-to-cardano)
 * [CoinCashew stake pool operators guide](https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node)
 * [r/CardanoStakePools](https://www.reddit.com/r/CardanoStakePools/)
 
 ## For Developers
-
 * [r/CardanoDevelopers](https://www.reddit.com/r/CardanoDevelopers/)
 
 ## Blockchain stats
 * [Pooltool.io](https://pooltool.io/)
+
+## Toknizing properties
+* [Benefits of tokenizing properties](https://medium.com/mvp-workshop/tokenizing-real-estate-what-are-the-benefits-pitfalls-and-misconceptions-of-tokenizing-assets-86d90f8ef3b)
 
 ## Papers
 * [IOHK papers](https://iohk.io/en/research/library/)

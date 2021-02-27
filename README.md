@@ -33,6 +33,7 @@
 
 ## Toknizing properties
 * [Benefits of tokenizing properties](https://medium.com/mvp-workshop/tokenizing-real-estate-what-are-the-benefits-pitfalls-and-misconceptions-of-tokenizing-assets-86d90f8ef3b)
+* [What, Why and How](https://dilendorf.com/resources/tokenization-of-real-estate-what-why-and-how.html)
 
 ## Papers
 * [IOHK papers](https://iohk.io/en/research/library/)

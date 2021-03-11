@@ -42,4 +42,5 @@
 ## General information about cryptocurrencies
 * [CoinBurreau](https://www.youtube.com/channel/UCqK_GSMbpiV8spgD3ZGloSw)
 * [Finematics](https://www.youtube.com/c/Finematics/videos)
+* [Adam Stokes](https://www.youtube.com/c/AdamStokes24/featured)
 

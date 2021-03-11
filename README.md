@@ -38,3 +38,8 @@
 
 ## Papers
 * [IOHK papers](https://iohk.io/en/research/library/)
+
+## General information about cryptocurrencies
+* [CoinBurreau](https://www.youtube.com/channel/UCqK_GSMbpiV8spgD3ZGloSw)
+* [Finematics](https://www.youtube.com/c/Finematics/videos)
+

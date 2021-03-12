@@ -27,6 +27,7 @@
 
 ## For Developers
 * [r/CardanoDevelopers](https://www.reddit.com/r/CardanoDevelopers/)
+* [K Semantic Framework](https://kframework.org/)
 
 ## Blockchain stats
 * [Pooltool.io](https://pooltool.io/)
